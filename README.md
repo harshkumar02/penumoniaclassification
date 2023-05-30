@@ -4,5 +4,5 @@
 
 Pneumonia Classification 
 Libraries used - OpenCV , Numpy , keras, PIL , streamlit
-Algorith used  - CNN (Convolutional Neural Network)
- 
+Algorithm used  - CNN (Convolutional Neural Network)
+Dataset collection - kaggle
